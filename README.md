@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💼 Venkatesh Investments – Tech Repository
 
-<!--
-**venkateshinvestments/venkateshinvestments** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official GitHub repository for **Venkatesh Investments**.
 
-Here are some ideas to get you started:
+This repository serves as the central hub for all things technical related to our firm, including:
+- Website codebase and updates
+- Automation scripts
+- Data tools and internal dashboards
+- API integrations and backend services
+- Design system and UI components
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Visit Our Website
+Explore our offerings in mutual funds, insurance advisory, retirement planning, and more at:  
+👉 [https://venkateshinvestments.com](https://venkateshinvestments.com)
+
+---
+
+## 📁 Repository Structure
+
+`In progress`
