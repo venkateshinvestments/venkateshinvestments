@@ -1,4 +1,4 @@
-# 💼 Venkatesh Investments – Tech Repository
+# Venkatesh Investments – Tech Repository
 
 Welcome to the official GitHub repository for **Venkatesh Investments**.
 
@@ -11,13 +11,13 @@ This repository serves as the central hub for all things technical related to ou
 
 ---
 
-## 🌐 Visit Our Website
+## Visit Our Website
 Explore our offerings in mutual funds, insurance advisory, retirement planning, and more at:  
-👉 [https://venkateshinvestments.com](https://venkateshinvestments.com)
+[venkateshinvestments.com](https://venkateshinvestments.com)
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 `In progress`
 
