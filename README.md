@@ -20,3 +20,9 @@ Explore our offerings in mutual funds, insurance advisory, retirement planning, 
 ## 📁 Repository Structure
 
 `In progress`
+
+---
+
+![venkatesh-investments-projects (1)](https://github.com/user-attachments/assets/d949e06a-b5ba-47e0-8207-4f4c2abdabdc)
+
+---
